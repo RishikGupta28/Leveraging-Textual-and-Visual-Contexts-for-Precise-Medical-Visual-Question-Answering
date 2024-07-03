@@ -1,4 +1,4 @@
-# Textual dn Visual Contexts for Precise Medical Visual Question Answering
+# Textual and Visual Contexts for Precise Medical Visual Question Answering
 
 Sure, I'll review the contents of the uploaded notebook and create a GitHub README based on the project details it contains. Let's start by loading and examining the notebook.
 
